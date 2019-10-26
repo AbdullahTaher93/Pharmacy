@@ -15,7 +15,7 @@ Pharmacy is an Android application that serves as a front-end for making purchas
 In the following image you can see the information and navigation flow that has been developed for this application: 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/AbdullahTaher93/Pharmacy/master/app/src/main/res/drawable/1.jpg">
+    <img width="500" height="300" src="https://raw.githubusercontent.com/AbdullahTaher93/Pharmacy/jmv74211-branch/app/src/main/res/drawable/1.png">
 </p>
 
 
